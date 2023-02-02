@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/grigorygrigorenko.github.io/static/css/main.71675834.css",
-    "main.js": "/grigorygrigorenko.github.io/static/js/main.02ab1e99.js",
+    "main.js": "/grigorygrigorenko.github.io/static/js/main.263ffb75.js",
     "static/media/header-bg.png": "/grigorygrigorenko.github.io/static/media/header-bg.5bf82a058f892ab7f237.png",
     "static/media/sun.svg": "/grigorygrigorenko.github.io/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/grigorygrigorenko.github.io/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/grigorygrigorenko.github.io/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "index.html": "/grigorygrigorenko.github.io/index.html",
     "main.71675834.css.map": "/grigorygrigorenko.github.io/static/css/main.71675834.css.map",
-    "main.02ab1e99.js.map": "/grigorygrigorenko.github.io/static/js/main.02ab1e99.js.map"
+    "main.263ffb75.js.map": "/grigorygrigorenko.github.io/static/js/main.263ffb75.js.map"
   },
   "entrypoints": [
     "static/css/main.71675834.css",
-    "static/js/main.02ab1e99.js"
+    "static/js/main.263ffb75.js"
   ]
 }
