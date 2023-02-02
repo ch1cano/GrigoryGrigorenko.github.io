@@ -9,7 +9,7 @@ const Main = () => {
                 <ul class="content-list">
                     <li class="content-list__item">
                         <h2 class="title-2">Frontend</h2>
-                        <p>JavaScript, ReactJS, Redux, HTML, CSS, Git, NPM, Yarn, BootStrap, StyledComponents</p>
+                        <p>JavaScript, ReactJS, Redux, HTML, CSS, Git, NPM, Yarn, BootStrap, StyledComponents</p>пше
                     </li>
                     <li class="content-list__item">
                         <h2 class="title-2">Backend</h2>
