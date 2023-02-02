@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.95aaaa0a.css",
-    "main.js": "/static/js/main.9a1a3d0a.js",
-    "static/media/myphoto.jpg": "/static/media/myphoto.75f5d185cc95983210c6.jpg",
-    "static/media/header-bg.png": "/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
-    "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
-    "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "index.html": "/index.html",
-    "main.95aaaa0a.css.map": "/static/css/main.95aaaa0a.css.map",
-    "main.9a1a3d0a.js.map": "/static/js/main.9a1a3d0a.js.map"
+    "main.css": "/grigorygrigorenko.github.io/static/css/main.0b2ba21a.css",
+    "main.js": "/grigorygrigorenko.github.io/static/js/main.b1596a28.js",
+    "static/media/myphoto.jpg": "/grigorygrigorenko.github.io/static/media/myphoto.75f5d185cc95983210c6.jpg",
+    "static/media/header-bg.png": "/grigorygrigorenko.github.io/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/grigorygrigorenko.github.io/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/grigorygrigorenko.github.io/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/grigorygrigorenko.github.io/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "index.html": "/grigorygrigorenko.github.io/index.html",
+    "main.0b2ba21a.css.map": "/grigorygrigorenko.github.io/static/css/main.0b2ba21a.css.map",
+    "main.b1596a28.js.map": "/grigorygrigorenko.github.io/static/js/main.b1596a28.js.map"
   },
   "entrypoints": [
-    "static/css/main.95aaaa0a.css",
-    "static/js/main.9a1a3d0a.js"
+    "static/css/main.0b2ba21a.css",
+    "static/js/main.b1596a28.js"
   ]
 }
