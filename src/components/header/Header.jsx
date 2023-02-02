@@ -1,6 +1,8 @@
 import React from "react";
 import "./style.css"
 
+import myPhoto from "../../img/photo/myphoto.jpg"
+
 
 const Header = () => {
     return <div>
@@ -13,7 +15,7 @@ const Header = () => {
                 <div className="header__text">
                     <p>with passion for learning and creating.</p>
                 </div>
-                <a href="#!" className="btn">Download CV</a>
+                <img src={myPhoto} alt="photo" width="250px" style={{ borderRadius: 10 }} />
             </div>
         </header>
     </div>;
