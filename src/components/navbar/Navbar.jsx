@@ -16,9 +16,9 @@ function Navbar() {
                 <div className="nav-row">
                     <div className="logo"><strong>Freelancer</strong> portfolio</div>
 
-                    <button className="dark-mode-btn">
+                    {/* <button className="dark-mode-btn">
                         <img src={moon} alt="Dark mode" className="dark-mode-btn__icon" />
-                    </button>
+                    </button> */}
 
                     <ul className="nav-list">
                         <li className="nav-list__item">
