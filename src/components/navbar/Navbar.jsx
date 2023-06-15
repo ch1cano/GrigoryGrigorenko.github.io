@@ -33,6 +33,12 @@ function Navbar() {
                                 Contacts
                             </NavLink>
                         </li>
+                        <li className="nav-list__item">
+                            <NavLink to="/projects"
+                                className={({ isActive }) => isActive ? activLink : defaultLink}>
+                                Projects
+                            </NavLink>
+                        </li>
                     </ul>
                 </div>
             </div>

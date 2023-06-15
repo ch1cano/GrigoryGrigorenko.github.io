@@ -15,7 +15,7 @@ const Footer = () => {
 
                         <li class="social__item"><a href="https://github.com/ch1cano" target="_blank"><img src={gitHub} alt="Link" /></a></li>
                         <li class="social__item"><a href="https://t.me/by_ch1cano" target="_blank"><img src={telegram} alt="Link" /></a></li>
-                        <li class="social__item"><a href="grigorygrigorenko.35@gmail.com" target="_blank"><img src={pochta} alt="Link" /></a></li>
+                        <li class="social__item"><a href="ch1canoo358@gmail.com" target="_blank"><img src={pochta} alt="Link" /></a></li>
 
                     </ul>
                     <div class="copyright">

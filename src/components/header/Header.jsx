@@ -15,7 +15,7 @@ const Header = () => {
                 <div className="header__text">
                     <p>with passion for learning and creating.</p>
                 </div>
-                <img src={myPhoto} alt="photo" width="250px" style={{ borderRadius: 10 }} />
+                <img src={myPhoto} alt="photo" width="450" height="450" style={{ borderRadius: 10 }} />
             </div>
         </header>
     </div>;

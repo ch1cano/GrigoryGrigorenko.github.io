@@ -280,6 +280,15 @@ body {
 	margin-top: 0.5em;
 }
 
+.content-list__item p {
+	font-size: 30px;
+	color: rgb(139,16,210);
+}
+
+.content-list__item h2 {
+	font-size: 50px;
+}
+
 /* Footer */
 
 

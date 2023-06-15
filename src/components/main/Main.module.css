@@ -1,0 +1,31 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: rgb(248,250,251)
+}
+
+.contentList {
+    
+
+}
+
+.contentListItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.contentListItem p {
+    font-size: 30px;
+}
+
+
+.titleTwo {
+    font-size: 65px;
+}
