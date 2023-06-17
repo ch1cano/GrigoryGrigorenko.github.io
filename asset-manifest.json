@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/grigorygrigorenko.github.io/static/css/main.0b2ba21a.css",
-    "main.js": "/grigorygrigorenko.github.io/static/js/main.b1596a28.js",
-    "static/media/myphoto.jpg": "/grigorygrigorenko.github.io/static/media/myphoto.75f5d185cc95983210c6.jpg",
+    "main.css": "/grigorygrigorenko.github.io/static/css/main.752fe205.css",
+    "main.js": "/grigorygrigorenko.github.io/static/js/main.2341aee5.js",
+    "static/media/myphoto.jpg": "/grigorygrigorenko.github.io/static/media/myphoto.ef03afeab5e5b29aaeb6.jpg",
     "static/media/header-bg.png": "/grigorygrigorenko.github.io/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/sun.svg": "/grigorygrigorenko.github.io/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
-    "static/media/moon.svg": "/grigorygrigorenko.github.io/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
-    "static/media/gitHub.svg": "/grigorygrigorenko.github.io/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/backend.PNG": "/grigorygrigorenko.github.io/static/media/backend.00e6152aeb12dd0b1f87.PNG",
+    "static/media/frontend.PNG": "/grigorygrigorenko.github.io/static/media/frontend.406e6714adc232f4c18c.PNG",
+    "static/media/sun.svg": "/grigorygrigorenko.github.io/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
+    "static/media/moon.svg": "/grigorygrigorenko.github.io/static/media/moon.312bed9230c94183d589bcc499993093.svg",
+    "static/media/gitHub.svg": "/grigorygrigorenko.github.io/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
     "index.html": "/grigorygrigorenko.github.io/index.html",
-    "main.0b2ba21a.css.map": "/grigorygrigorenko.github.io/static/css/main.0b2ba21a.css.map",
-    "main.b1596a28.js.map": "/grigorygrigorenko.github.io/static/js/main.b1596a28.js.map"
+    "main.752fe205.css.map": "/grigorygrigorenko.github.io/static/css/main.752fe205.css.map",
+    "main.2341aee5.js.map": "/grigorygrigorenko.github.io/static/js/main.2341aee5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b2ba21a.css",
-    "static/js/main.b1596a28.js"
+    "static/css/main.752fe205.css",
+    "static/js/main.2341aee5.js"
   ]
 }
