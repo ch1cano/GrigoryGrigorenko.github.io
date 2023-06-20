@@ -16,6 +16,12 @@
     text-align: center;
 }
 
+.headerPhoto {
+    box-shadow: 0px 2px 15px 2px rgb(201,132,89);
+    -webkit-box-shadow: 0px 2px 15px 2px rgb(246, 145, 83);
+    -moz-box-shadow: 0px 2px 15px 2px rgb(246, 145, 83);
+}
+
 .header__wrapper {
     padding: 0 15px;
     max-width: 660px;

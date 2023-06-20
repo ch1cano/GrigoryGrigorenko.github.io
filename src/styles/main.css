@@ -7,7 +7,7 @@
 	--black: #171718;
 	--black-border: #26292d;
 	--white: #fff;
-	--purple: #8b10d2;
+	--purple: rgb(103, 16, 210);
 
 	/* Nav */
 	--nav-bg: var(--black);
