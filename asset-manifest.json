@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/grigorygrigorenko.github.io/static/css/main.1dd5fd1a.css",
-    "main.js": "/grigorygrigorenko.github.io/static/js/main.2341aee5.js",
+    "main.css": "/grigorygrigorenko.github.io/static/css/main.d4bdc914.css",
+    "main.js": "/grigorygrigorenko.github.io/static/js/main.3bd00eec.js",
+    "static/media/TheBots.png": "/grigorygrigorenko.github.io/static/media/TheBots.4e321b92ba3b3972f3c8.png",
     "static/media/myphoto.jpg": "/grigorygrigorenko.github.io/static/media/myphoto.ef03afeab5e5b29aaeb6.jpg",
+    "static/media/React-Weather-App.png": "/grigorygrigorenko.github.io/static/media/React-Weather-App.61a0d89441824248dd98.png",
+    "static/media/sneakers-shop.png": "/grigorygrigorenko.github.io/static/media/sneakers-shop.0f0bbfd38f41103e4bee.png",
+    "static/media/productu.png": "/grigorygrigorenko.github.io/static/media/productu.addb1bb8940a186909ca.png",
     "static/media/header-bg.png": "/grigorygrigorenko.github.io/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/ToDo-react.png": "/grigorygrigorenko.github.io/static/media/ToDo-react.703100f3dc5c5938cfad.png",
+    "static/media/calcIphone.png": "/grigorygrigorenko.github.io/static/media/calcIphone.b88e2358123f4fd1c5d5.png",
     "static/media/backend.PNG": "/grigorygrigorenko.github.io/static/media/backend.00e6152aeb12dd0b1f87.PNG",
     "static/media/frontend.PNG": "/grigorygrigorenko.github.io/static/media/frontend.406e6714adc232f4c18c.PNG",
     "static/media/sun.svg": "/grigorygrigorenko.github.io/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
     "static/media/moon.svg": "/grigorygrigorenko.github.io/static/media/moon.312bed9230c94183d589bcc499993093.svg",
     "static/media/gitHub.svg": "/grigorygrigorenko.github.io/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
     "index.html": "/grigorygrigorenko.github.io/index.html",
-    "main.1dd5fd1a.css.map": "/grigorygrigorenko.github.io/static/css/main.1dd5fd1a.css.map",
-    "main.2341aee5.js.map": "/grigorygrigorenko.github.io/static/js/main.2341aee5.js.map"
+    "main.d4bdc914.css.map": "/grigorygrigorenko.github.io/static/css/main.d4bdc914.css.map",
+    "main.3bd00eec.js.map": "/grigorygrigorenko.github.io/static/js/main.3bd00eec.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dd5fd1a.css",
-    "static/js/main.2341aee5.js"
+    "static/css/main.d4bdc914.css",
+    "static/js/main.3bd00eec.js"
   ]
 }
