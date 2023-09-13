@@ -4,7 +4,7 @@ const Contacts = () => {
     return <div>
         <main class="section">
             <div class="container">
-                <h1 class="title-1">Contacts</h1>
+                <h1 class="title-1">Contacts:</h1>
 
                 <ul class="content-list">
                     <li class="content-list__item">
