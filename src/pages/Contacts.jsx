@@ -12,7 +12,7 @@ const Contacts = () => {
                         <p>Krasnodar, Russia</p>
                     </li>
                     <li class="content-list__item">
-                        <h2 class="title-2">Telegram </h2>
+                        <h2 class="title-2">Telegram</h2>
                         <p><a href="https://t.me/by_ch1cano" target="_blank">@by_ch1cano</a></p>
                     </li>
                     <li class="content-list__item">
